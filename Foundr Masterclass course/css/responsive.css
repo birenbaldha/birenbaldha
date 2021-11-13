@@ -1,0 +1,282 @@
+@media screen and (max-width: 1440px){
+	.learn-dot-shap{
+		right: -50px;
+	}
+	.learn-main-sec .container {
+	    max-width: 1300px;
+	}
+	.learn-list-con-inner ul{
+		padding: 0px 100px;
+	}
+	.learn-list-con-inner ul li{
+		padding: 0 20px 0 0;
+	}
+	.instructor-main-sec .container {
+	    max-width: 1300px;
+	}
+	.instructor-shap-img-area:after{
+		height: 1130px;
+	}
+	.instructor-left-main {
+	    margin: 0px;
+	    padding: 120px 0 0 70px;
+	}
+	.instructor-image-area {
+	    margin: 0px;
+	    padding: 0px 35px 0 0;
+	}
+	.instructor-dec-main p:not(:last-child) {
+	    margin: 0 0 15px 0;
+	}
+	.instructor-dec-main p{
+		font-size: 17px;
+		line-height: 28px;
+	}
+	.instructor-insta-img {
+	    margin: 40px 0 30px 0;
+	    padding: 0px;
+	}
+}
+@media screen and (max-width: 1370px){
+	.learn-main-sec .container {
+	    max-width: 1200px;
+	}
+	.learn-shap-area:after{
+		display: none;
+	}
+	.instructor-shap-img-area:after{
+		display: none;
+	}
+	.instructor-shap-img-area{
+		background: var(--white-color);
+		border-radius: 20px;
+		-webkit-box-shadow: -45px 51px 73px rgb(0 0 0 / 17%);
+    	box-shadow: -45px 51px 73px rgb(0 0 0 / 17%);
+	}
+	.instructor-main-sec .container {
+	    max-width: 1200px;
+	}
+	.learn-heading-area{
+		padding: 0px;
+	}
+}
+@media screen and (max-width:1280px){
+	.learn-dot-shap {
+	    right: 0;
+	}
+}
+@media screen and (max-width: 1199px){
+	.testimonial-main-sec .col-lg-6{
+		flex: 0 0 100%;
+		max-width: 100%;
+	}
+	.banner-con-main h2{
+		font-size: 60px;
+    	line-height: 80px;
+	}
+	.banner-main-sec:after{
+		height: 850px;
+	}
+	.learn-main-sec .container {
+	    max-width: 960px;
+	}
+	.learn-list-con-inner ul {
+	    padding: 0;
+	}
+	.instructor-main-sec .container {
+	    max-width: 960px;
+	}
+}
+@media screen and (max-width: 991px){
+	.banner-con-main h2 {
+	    font-size: 40px;
+	    line-height: 50px;
+	}
+	.banner-con-main h2 span:after{
+		height: 30px;
+	}
+	.banner-con-main h3{
+		font-size: 30px;
+    	line-height: 30px;
+	}
+	.logo-area a svg{
+		width: 125px;
+	}
+	#timer > div  span.bolder{
+		height: 40px;
+		width: 40px;
+		font-size: 20px;
+	}
+	.banner-main-sec:after {
+	    height: 600px;
+	}
+	.testimonial-main-sec {
+	    margin: 0px;
+	    padding: 100px 0 60px 0;
+	}
+	.learn-main-sec .container {
+	    max-width: 720px;
+	}
+	.learn-heading-area h2{
+		font-size: 40px;
+    	line-height: 50px;
+	}
+	.learn-list-con-inner ul li{
+		padding: 0px;
+		flex: 0 0 100%;
+		max-width: 100%;
+	}
+	.learn-dot-shap{
+		display: none;
+	}
+	.learn-list-con-inner ul li:nth-child(5){
+		display: none;
+	}
+	.learn-list-con-inner ul li span svg {
+	    margin: 0 30px 0 0;
+	    width: 30px;
+	}
+	.instructor-main-sec{
+		margin: 0px;
+		padding: 100px 0 0 0;
+	}
+	.instructor-main-sec .row{
+		flex-direction:column-reverse;
+	}
+	.instructor-image-inner {
+	    text-align: center;
+	    display: inline-block;
+	}
+	.instructor-image-area {
+	    margin: 0px;
+	    padding: 70px 0 0 0;
+	    text-align: center;
+	}
+	.instructor-image-inner:after{
+		top: 60px;
+    	left: -10px;
+	}
+	.instructor-main-sec .container {
+	    max-width: 100%;
+	}
+	.video-heading-area h2{
+		font-size: 40px;
+    	line-height: 50px;
+	}
+	.video-item-row{
+		flex-wrap: wrap;
+	}
+	.video-left-part {
+	    margin: 0px;
+	    padding: 0px;
+	    flex: 0 0 100%;
+	    max-width: 100%;
+	}
+	.video-right-part {
+	    margin: 0px;
+	    padding: 0 50px;
+	    flex: 0 0 100%;
+	    max-width: 100%;
+	}
+	.instructor-left-main {
+	    margin: 0px;
+	    padding: 120px 0 0 30px;
+	}
+	.footer-con-inner ul{
+		flex-wrap: wrap;
+	}
+}
+
+@media screen and (max-width: 767px){
+	.logo-area, .header-button-area{
+		display: none;
+	}
+	.header-con-main{
+		justify-content: center;
+	}
+	.learn-main-sec .container {
+	    max-width: 100%;
+	}
+	.video-right-part{
+		padding: 0 10px;
+	}
+	.banner-con-main h2 {
+	    font-size: 30px;
+	    line-height: 40px;
+	}
+	.banner-con-main h2 span{
+		padding: 0px;
+	}
+	.banner-con-main h2 span:after{
+		display: none;
+	}
+	.banner-con-main h3 {
+	    font-size: 20px;
+	    line-height: 28px;
+	    margin: 0 0 20px 0;
+	}
+	.banner-main-sec:after {
+	    height: 480px;
+	}
+	.learn-heading-area h2 {
+	    font-size: 30px;
+	    line-height: 40px;
+	}
+	.learn-heading-area h2 span{
+		display: inline;
+	}
+	.instructor-heading h2{
+		font-size: 40px;
+    	line-height: 40px;
+	}
+	.instructor-heading p{
+		font-size: 20px;
+    	line-height: 28px;
+	}
+	.video-shap-main{
+		display: none;
+	}
+}
+@media screen and (max-width: 640px){
+	.testi-top-area{
+		flex-wrap: wrap;
+	}
+	.testi-top-img{
+		flex: 0 0 100%;
+		max-width: 100%;
+		text-align: center;
+		margin: 0 0 20px 0; 
+	}
+	.testi-top-con {
+	    margin: 0;
+	    padding: 0px;
+	}
+	.learn-button-inner .banner-btn{
+		font-size: 18px;
+	}
+	.video-heading-area h2 {
+	    font-size: 30px;
+	    line-height: 40px;
+	}
+	.video-heading-area h2 span{
+		display: inline;
+	}
+	.banner-btn-area .banner-btn{
+		font-size: 18px;
+	}
+	.video-left-inner iframe {
+	    height: 250px;
+	    width: 100%;
+	    display: block;
+	}
+	.video-bottom-btn-inner .banner-btn{
+		padding: 10px 10px 10px 50px;
+		font-size: 18px;
+	}
+	.main-footer {
+	    margin: 0px;
+	    padding: 90px 0 21px;
+	    position: relative;
+	    z-index: 1;
+	}
+}
